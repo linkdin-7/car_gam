@@ -1,3 +1,3 @@
 <?
-include_one("index.html")
+include("index.html");
 ?>
