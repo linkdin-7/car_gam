@@ -1,3 +1,3 @@
 <?
-include_one("car.html")
+include_one("index.html")
 ?>
